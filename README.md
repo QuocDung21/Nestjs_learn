@@ -7,7 +7,8 @@
 
   <p align="center">
     Loading 40% 
-    Đang làm đến :  https://youtu.be/GHTA143_b-s?t=5609
+    Sẽ tiếp tục làm tiếp
+
   </p>
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
